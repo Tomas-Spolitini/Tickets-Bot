@@ -1,0 +1,5 @@
+DISPLAY_NAME=247.Shop
+DESCRIPTION=hola
+MAIN=index.js
+MEMORY=80
+VERSION=recommended
